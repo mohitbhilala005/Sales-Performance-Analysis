@@ -74,3 +74,6 @@ Mohit Bhilala
 
 Business Analyst Internship Project
 Codec Technologies India
+## Dashboard Preview
+
+![Dashboard](images/dashboard.png)
