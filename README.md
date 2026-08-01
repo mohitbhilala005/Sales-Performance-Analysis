@@ -31,32 +31,34 @@ The dashboard enables users to:
 
 ## 📂 Repository Structure
 
-```
+```text
 Sales-Performance-Analysis/
 │
-├── Dataset/
+├── 📁 Dataset/
+│   ├── Sample_Superstore.csv
 │   └── Cleaned_Superstore(Business Analysis).csv
 │
-├── Images/
-│   └── dashboard.png
+├── 📁 Images/
+│   ├── dashboard.png
 │
-├── PowerBI/
+├── 📁 PowerBI/
 │   └── Sales_Performance_Analysis.pbix
 │
-├── Python/
-│   └── Sales_Analysis.ipynb
+├── 📁 Python/
+│   └── Sales_Performance_Analysis.ipynb
 │
-├── SQL/
+├── 📁 SQL/
 │   └── sales_analysis.sql
 │
-├── Presentation/
-│   └── Sales_Performance_Analysis.pptx
+├── 📁 Presentation/
+│   └── Sales_Performance_Analysis_Presentation.pptx
 │
-├── Report/
+├── 📁 Report/
+│   └── Sales_Performance_Analysis_Project_Report.pdf
 │
-└── README.md
+├── 📄 README.md
+└── 📄 .gitignore
 ```
-
 ---
 
 # 📈 Dashboard Preview
