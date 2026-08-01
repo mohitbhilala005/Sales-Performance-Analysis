@@ -44,14 +44,11 @@ Sales-Performance-Analysis/
 ├── 📁 PowerBI/
 │   └── Sales_Performance_Analysis.pbix
 │
-├── 📁 Python/
-│   └── Sales_Performance_Analysis.ipynb
-│
-├── 📁 SQL/
-│   └── sales_analysis.sql
-│
 ├── 📁 Presentation/
 │   └── Sales_Performance_Analysis_Presentation.pptx
+│
+├── 📁 Python/
+│   └── Sales_Performance_Analysis.ipynb
 │
 ├── 📁 Report/
 │   └── Sales_Performance_Analysis_Project_Report.pdf
