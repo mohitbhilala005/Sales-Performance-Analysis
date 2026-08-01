@@ -53,8 +53,9 @@ Sales-Performance-Analysis/
 ├── 📁 Report/
 │   └── Sales_Performance_Analysis_Project_Report.pdf
 │
-├── 📄 README.md
-└── 📄 .gitignore
+├── 📄 .gitignore
+├── 📄 LICENSE
+└── 📄 README.md
 ```
 ---
 
